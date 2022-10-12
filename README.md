@@ -9,7 +9,7 @@ Une alliance entre programmation et art à vous d'en jugez :-).
 
 ## Installation
 
- - git clone https://code.up8.edu/zine-eddine/recursive-screen-gl4d.git
+ - git clone https://github.com/ZineeEddine/Recursive-Screen---GL4D.git
  - cd recursive-screen-gl4d
  - cd Recursive_Screen_GL4D
  - cd make
